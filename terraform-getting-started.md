@@ -69,7 +69,7 @@ $ terraform init
 
 Watch the output for any errors in the output:
 
-![init-output.png](assets\init-output.png)
+![init-output.png](assets/init-output.png)
 
 The success message above confirms that Terraform completed the initialization, and it is time to move to the next task.
 
