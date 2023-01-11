@@ -1,6 +1,6 @@
 # Getting Started with Terraform
 
-Terraform is one of the most popular open-source infrastructure as code (IAC) tools. It allows you to define an infrastructure for variou on-prem and cloud providers (e.g. AWS, Azure, Google Cloud, DigitalOcean, etc.) using a simple, declarative programming language. It also helps you to deploy and manage that infrastructure using a few CLI commands.
+Terraform is one of the most popular open-source infrastructure as code (IAC) tools. It allows you to define an infrastructure for various on-prem and cloud providers (e.g. AWS, Azure, Google Cloud, DigitalOcean, etc.) using a simple, declarative programming language. It also helps you to deploy and manage that infrastructure using a few CLI commands.
 
 In this tutorial you will learn how to set a work environment and use it to define and manage your infrastructure from scratch.
 
